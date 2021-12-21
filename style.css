@@ -1,0 +1,24 @@
+.container {
+    padding: 10px 20px;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.active {
+    color: #fff;
+    background-color: #000000
+}
